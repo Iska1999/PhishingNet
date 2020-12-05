@@ -1,8 +1,8 @@
 # PhishingNet
-PhishingNet is a neural network model trained to detect phishing websites.
+PhishingNet is a neural network model trained to detect phishing websites in real-time.
 
-The repository currently contains the code for the model.
+Description:
+In the code is a Chrome extension that is used to fetch URLs from Chrome browser and send them to the server running in Python.
+The server then predicts based on the URL if the link is phishing or legit.
 
-To-do: 
-- Encase the model in a REST API
-- Create a browser extension for real-time detection
+
